@@ -1,7 +1,9 @@
+# Member operator
 my_list = [1, 2, 'Logan', 'George']
 print(1 in my_list)
 print('Logan' not in my_list)
 
+# Identity operator
 x = 3
 y = x
 z = 3
