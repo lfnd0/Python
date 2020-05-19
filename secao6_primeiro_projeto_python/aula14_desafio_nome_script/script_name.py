@@ -10,7 +10,8 @@ def circumference_area(radius):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print('Execution error.\nCorrect syntax: %s <radius>' % (sys.argv[0][-14:]))
+        print('Execution error.\nCorrect syntax: %s <radius>' %
+              (sys.argv[0][-14:]))
     else:
         radius = sys.argv[1]
         area = circumference_area(radius)
