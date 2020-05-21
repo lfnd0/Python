@@ -1,7 +1,7 @@
 def age_range(age):
     if 0 <= age < 18:
         return 'Minor'
-    elif age in range(18, 64):
+    elif age in range(18, 65):
         return 'Adult'
     elif age in range(65, 100):
         return 'Aged'
