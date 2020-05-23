@@ -1,0 +1,6 @@
+Name: Logan, age: 22
+Name: Victor, age: 19
+Name: Jaden, age: 16
+Name: Mary, age: 20
+Name: Spencer, age: 14
+Name: Joshua, age: 10
