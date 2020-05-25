@@ -1,0 +1,14 @@
+Anotações
+
+Seção 11
+Aula 114
+
+
+1) Tipos de parâmetros:
+    - Posicional: leva em consideração a posição do argumento na função
+    - Nomeado: sobrepõe a ordem dos parâmetros recebidos numa função
+
+
+2) Tipos de argumentos especiais:
+    - *args: retorna/gera tupla
+    - **kwargs: retorna/gera dicionário
