@@ -16,7 +16,7 @@ def tax_2(flammable, multiplication_factor=1):
 if __name__ == "__main__":
     gross_price = 134.98
 
-    # Os valores após 'tax_1()' e 'tax_2()' referem-se aos parâmetros das respectivas funções, coletados por '*parameters'
+    # Os valores após 'tax_1' e 'tax_2' referem-se aos parâmetros das respectivas funções, coletados por '*parameters'
     final_price = calculate_final_price(gross_price, tax_1, True)
 
     final_price = calculate_final_price(final_price, tax_2, True, 1.5)
