@@ -1,5 +1,7 @@
 #! python
 
+# Seção 6 - Aula 61
+
 from math import pi
 
 radius = input('Entry radius: ')

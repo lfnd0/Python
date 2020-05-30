@@ -1,5 +1,7 @@
 #! python
 
+# Seção 6 - Aula 62
+
 from math import pi
 
 if __name__ == "__main__":
