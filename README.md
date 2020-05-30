@@ -8,3 +8,4 @@
    * Seção 8 - [Segundo projeto em Python](https://github.com/lfnd0/Python/tree/master/secao8_segundo_projeto_python)
    * Seção 9 - [Manipulação de arquivos](https://github.com/lfnd0/Python/tree/master/secao9_manipulacao_arquivos) :file_folder:
    * Seção 10 - [Comprehension](https://github.com/lfnd0/Python/tree/master/secao10_comprehension) :file_folder:
+   * Seção 11 - [Funções](https://github.com/lfnd0/Python/tree/master/secao11_funcoes) :file_folder:
