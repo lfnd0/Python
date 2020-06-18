@@ -54,7 +54,7 @@ def main():
     to_buy_mouse.completed()
     for task in market.tasks:
         print(f'- {task}')
-    print(house)
+    print(market)
 
 
 if __name__ == "__main__":

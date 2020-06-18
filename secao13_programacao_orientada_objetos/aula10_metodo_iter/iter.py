@@ -59,7 +59,7 @@ def main():
     # Não precisa utilizar a notação 'market.tasks' devido o uso do método '__iter__', pois este método fará o trabalho de iterar
     for task in market:
         print(f'- {task}')
-    print(house)
+    print(market)
 
 
 if __name__ == "__main__":
