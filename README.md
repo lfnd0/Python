@@ -11,3 +11,4 @@
    * Seção 11 - [Funções](https://github.com/lfnd0/Python/tree/master/secao11_funcoes) :file_folder:
    * Seção 12 - [Pacotes](https://github.com/lfnd0/Python/tree/master/secao12_pacotes) :file_folder:
    * Seção 13 - [Programação orientada a objetos](https://github.com/lfnd0/Python/tree/master/secao13_programacao_orientada_objetos) :file_folder:
+   * Seção 14 - [Programação orientada a objetos avançada](https://github.com/lfnd0/Python/tree/master/secao14_programacao_orientada_objetos_avancada) :file_folder:
