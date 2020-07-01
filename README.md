@@ -12,3 +12,4 @@
    * Seção 12 - [Pacotes](https://github.com/lfnd0/Python/tree/master/secao12_pacotes) :file_folder:
    * Seção 13 - [Programação orientada a objetos](https://github.com/lfnd0/Python/tree/master/secao13_programacao_orientada_objetos) :file_folder:
    * Seção 14 - [Programação orientada a objetos avançada](https://github.com/lfnd0/Python/tree/master/secao14_programacao_orientada_objetos_avancada) :file_folder:
+   * Seção 15 - [Programação funcional](https://github.com/lfnd0/Python/tree/master/secao15_programacao_funcional) :file_folder:
