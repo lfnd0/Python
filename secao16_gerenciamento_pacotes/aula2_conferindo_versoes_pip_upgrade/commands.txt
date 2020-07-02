@@ -1,0 +1,7 @@
+- Conferindo a versão:
+    python --version
+    pip --version ou pip -m pip --version
+
+
+- Atualizando a versão do pip:
+    python -m pip install --upgrade pip
