@@ -1,0 +1,6 @@
+- Comandos com pip:
+    pip freeze opcao_de_execucao
+    pip install -r requirements.txt
+    echo nome_do_pacote==versao_do_pacote >> requirements.txt
+    pip list --outdated
+    pip install --upgrade nome_do_pacote
