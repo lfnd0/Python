@@ -13,3 +13,5 @@
    * Seção 13 - [Programação orientada a objetos](https://github.com/lfnd0/Python/tree/master/secao13_programacao_orientada_objetos) :file_folder:
    * Seção 14 - [Programação orientada a objetos avançada](https://github.com/lfnd0/Python/tree/master/secao14_programacao_orientada_objetos_avancada) :file_folder:
    * Seção 15 - [Programação funcional](https://github.com/lfnd0/Python/tree/master/secao15_programacao_funcional) :file_folder:
+   * Seção 16 - [Gerenciamento de pacotes](https://github.com/lfnd0/Python/tree/master/secao16_gerenciamento_pacotes) :file_folder:
+   * Seção 17 - [Isolamento de ambientes](https://github.com/lfnd0/Python/tree/master/secao17_isolamento_ambientes) :file_folder:
