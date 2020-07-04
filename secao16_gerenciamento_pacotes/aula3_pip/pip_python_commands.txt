@@ -2,7 +2,9 @@
     pip --help
     pip search nome_do_pacote
     pip list
-    pip install nome_do_pacote ou pip install --user nome_do_pacote
+    pip install nome_do_pacote
+    pip install --user nome_do_pacote
+    pip install nome_do_pacote==versao_do_pacote
     pip uninstall nome_do_pacote
 
 

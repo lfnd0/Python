@@ -1,5 +1,7 @@
 - Comandos com pip:
+    pip freeze
     pip freeze opcao_de_execucao
+    pip freeze > requirements.txt
     pip install -r requirements.txt
     echo nome_do_pacote==versao_do_pacote >> requirements.txt
     pip list --outdated
