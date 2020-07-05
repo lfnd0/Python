@@ -1,0 +1,13 @@
+- Sistema de Gerenciamento de Banco de Dados (SGBD):
+    MySQL (Oracle)
+    Structured Query Language (SQL) ou Linguagem de Consulta Estruturada
+
+
+- Modelo Entidade Relacionamento (Modelo ER):
+    Entidade:
+        - Armazena dados numéricos e de texto (BLOB, CLOB)
+        - Tabela com colunas/atributos
+        - Cada linha representa um dado da entidade
+        - Esquema da tabela representa os "tipos dos dados" dentro da tabela
+    Relacionamento:
+        - Mapeia "interações" entre entidades de um banco de dados
