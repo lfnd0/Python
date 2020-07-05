@@ -1,0 +1,10 @@
+- Primary Key (PK) ou Chave Primária:
+    Características:
+        - Única, não vazia e imutável
+        - Auxilia na criação de relacionamentos entre tabelas
+        - Constraints mantêm dados restritos e sem inserções inválidas
+        - Surrogate Key ou Chave Sintética
+        - Natural Key ou Chave Natural
+        - Pode ser formada com a união de registros/colunas/tuplas
+    Exemplo:
+        - Cliente(codigo_PK, nome, cpf, email)
