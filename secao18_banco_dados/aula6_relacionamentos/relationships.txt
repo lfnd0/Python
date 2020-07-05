@@ -1,0 +1,16 @@
+- Relacionamentos:
+    Foreign Key (FK) ou Chave Estrangeira
+    Tipos de relacionamentos:
+        - 1 .. 1 (um para um):
+            - Exemplo (utilizando UNIQUE no campo 'id_marido_FK'):
+                Marido(id_PK, nome)
+                Mulher(id_PK, id_marido_FK, nome)
+        - 1 .. N (um para muitos):
+            - Exemplo:
+                Mae(codigo_PK, nome)
+                Filho(codigo_mae_FK, codigo_PK, nome)
+        - N .. M (muitos para muitos)
+            - Exemplo:
+                Tio(id_PK, nome)
+                Sobrinho(id_PK, nome)
+                Tio_Sobrinho(id_tio_FK, id_sobrinho_FK)
