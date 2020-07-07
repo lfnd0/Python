@@ -1,0 +1,24 @@
+- Structured Query Language (SQL):
+    Data Manipulation Language (DML), relacionado ao  Create, Read, Update and Delete (CRUD):
+        - INSERT
+        - SELECT
+        - UPDATE
+        - DELETE
+
+
+    Data Definition Language (DDL):
+        - CREATE
+        - ALTER
+        - DROP
+
+
+    Data Control Language (DCL):
+        - GRANT
+        - DENY
+        - REVOKE
+
+
+    Transaction Control Language (TCL):
+        - BEGIN TRANS
+        - COMMIT TRANS
+        - ROLLBACK
