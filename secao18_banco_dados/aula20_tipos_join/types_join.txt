@@ -1,0 +1,11 @@
+- Tipos de JOIN (Seção 18 - Aula 220):
+    INNER:
+        - Intersecção entre tabelas
+    OUTER:
+        - Os dados que estão foram da intersecção
+    LEFT JOIN (LEFT OUTER JOIN):
+        - Intersecção entre as tabelas + todos os dados da tabela à esquerda
+    RIGHT JOIN (RIGHT OUTER JOIN):
+        - Intersecção entre as tabelas + todos os dados da tabela à direita
+    FULL JOIN (não suportado pelo MySQL):
+        - Intersecção entre as tabelas + todos os dados da tabela à esquerda + todos os dados da tabela à direita
