@@ -1,4 +1,4 @@
--- Inserindo dados na tabela estados
+-- Inserindo dados na tabela estado
 
 INSERT INTO estado
     (nome, sigla, regiao, populacao)
