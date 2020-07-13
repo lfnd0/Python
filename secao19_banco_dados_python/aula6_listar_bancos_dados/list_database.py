@@ -1,14 +1,16 @@
+#! python
+
 from mysql.connector import connect
 
-conexao = connect(
+connection = connect(
     host='localhost',
     port=3306,
     user='root',
     passwd='root'
 )
 
-cursor = conexao.cursor()
+cursor = connection.cursor()
 cursor.execute('SHOW DATABASES')
 
 for i, database in enumerate(cursor, start=1):
-    print(f'Banco de dados {i}: {database[0]}')
+    print(f'Database {i}: {database[0]}')
