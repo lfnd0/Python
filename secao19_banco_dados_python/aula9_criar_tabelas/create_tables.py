@@ -6,7 +6,6 @@ from database.new_connection_function import new_connection
 contact_table = 'CREATE TABLE IF NOT EXISTS contato(nome VARCHAR(50), telefone VARCHAR(40))'
 email_table = 'CREATE TABLE email(id INT AUTO_INCREMENT PRIMARY KEY, email VARCHAR(50))'
 
-
 try:
     with new_connection() as connection:
         try:
