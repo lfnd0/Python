@@ -5,13 +5,13 @@ from database.new_connection_function import new_connection
 
 sql = 'INSERT INTO contato(nome, telefone) VALUES(%s, %s)'
 args = (
-    ('Becca', '77402-4384'),
+    ('Becca', '70173-4864'),
     ('George', '41874-2438'),
     ('Anne', '78151-9605'),
     ('Scotty', '82222-4763'),
     ('David', '27205-7290'),
     ('Mary', '40063-3110'),
-    ('Tonny', '49156-5886'),
+    ('Tonny', '49156-5886')
 )
 
 with new_connection() as connection:
